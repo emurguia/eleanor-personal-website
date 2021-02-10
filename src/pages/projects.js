@@ -90,10 +90,10 @@ const Projects = () => (
       <p>
         Eleanor worked with a classmate to create a chrome extension that
         converts gendered language to gender neutral language for a Gender and
-        Sexuality Studies course. The extension is
+        Sexuality Studies course. The extension is{" "}
         <a href="https://chrome.google.com/webstore/detail/gender-ender-20/jmhngopgdkciacoffpdbmecoihaacace?hl=en">
           available to download
-        </a>
+        </a>{" "}
         for chrome browsers.
       </p>
 
